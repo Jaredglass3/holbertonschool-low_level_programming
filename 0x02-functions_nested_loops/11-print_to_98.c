@@ -23,7 +23,7 @@ printf("%d, ", n);
 }
 }
 }
-(else
+else
 {
 for (; n >= 98; n--)
 {
