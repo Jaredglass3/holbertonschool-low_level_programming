@@ -17,10 +17,6 @@ printf("%d", n);
  printf("\n");
 break;
 }
-else
-{
-printf("%d, ", n);
-}
 }
 else
 {
@@ -37,6 +33,4 @@ else
 printf("%d, ", n);
 }
 }
-
 }
- (}
