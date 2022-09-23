@@ -25,7 +25,7 @@ _putchar(32);
 
 for (z = 0; z <= x; z++)
 {
-_puthar(35);
+_putchar(35);
 }
 
 _putchar('\n');
